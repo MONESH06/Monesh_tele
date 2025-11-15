@@ -1,0 +1,99 @@
+{
+  "6908886434": {
+    "driver_name": "Monesh",
+    "current_deficit": 0.0,
+    "ha_expiry": "2026-02-13",
+    "drives": [
+      {
+        "date": "2025-11-15",
+        "vehicle": "34707",
+        "odo_start": 13933.0,
+        "odo_end": 13933.0,
+        "distance": 0.0,
+        "timestamp": "2025-11-15T02:36:35.302080+00:00"
+      },
+      {
+        "date": "2025-11-13",
+        "vehicle": "36589",
+        "odo_start": 11242.0,
+        "odo_end": 11269.0,
+        "distance": 27.0,
+        "timestamp": "2025-11-15T05:05:39.724802+00:00"
+      }
+    ]
+  },
+  "2099436445": {
+    "driver_name": "CORNELIUS LIM YI ZHONG",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  },
+  "941038466": {
+    "driver_name": "Richard Hioe",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  },
+  "6043253655": {
+    "driver_name": "Jovin Ang Jing Kai",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  },
+  "815734786": {
+    "driver_name": "Choo Jun Yan",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  },
+  "1430944236": {
+    "driver_name": "Yap Qi Feng, Joseph",
+    "current_deficit": 50.0,
+    "ha_expiry": "HA status pending.",
+    "drives": [
+      {
+        "date": "2025-11-13",
+        "vehicle": "36587",
+        "odo_start": 1618.0,
+        "odo_end": 1618.0,
+        "distance": 0.0,
+        "timestamp": "2025-11-15T03:32:16.740955+00:00"
+      }
+    ]
+  },
+  "1022641349": {
+    "driver_name": "Teow Wee Jug",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  },
+  "5807159226": {
+    "driver_name": "Malik",
+    "current_deficit": 0.0,
+    "ha_expiry": "2026-02-12",
+    "drives": [
+      {
+        "date": "2025-11-13",
+        "vehicle": "36589",
+        "odo_start": 11137.0,
+        "odo_end": 11214.0,
+        "distance": 77.0,
+        "timestamp": "2025-11-15T03:20:27.173037+00:00"
+      },
+      {
+        "date": "2025-11-12",
+        "vehicle": "36589",
+        "odo_start": 11010.0,
+        "odo_end": 11087.0,
+        "distance": 77.0,
+        "timestamp": "2025-11-15T03:24:07.468158+00:00"
+      }
+    ]
+  },
+  "1629576653": {
+    "driver_name": "Daren Lee Jie Wei",
+    "current_deficit": 0.0,
+    "ha_expiry": "HA status pending.",
+    "drives": []
+  }
+}
